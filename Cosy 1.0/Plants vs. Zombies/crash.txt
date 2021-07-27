@@ -1,0 +1,26 @@
+Exception: Privileged Instruction (code 0xc0000096) at address 06EF48AC in thread 15E0
+Module: Cosy.dll
+Logical Address: 0003:000008AC
+
+0679FF94 06EF48AC acceleration+0 [(Unknown File Name)(0)+0x00000000]
+Params: 00000000 700F50CD 00000000 00000000
+
+
+EAX:06EF48AC EBX:00000000 ECX:06EA0000 EDX:06EA0000 ESI:00000000 EDI:00000000
+EIP:06EF48AC ESP:0679FF88  EBP:0679FF94
+CS:001B SS:0023 DS:0023 ES:0023 FS:003B GS:0000
+Flags:00010206
+
+Windows Ver: NT 6.1 Service Pack 1 Build 7601
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.2.0.1065
+Time Loaded: 02:29:05
+Fullscreen: Не
+Primary ThreadId: D7C
+Times Played: 0
+Build Num: 0
+Build Date: 
+
